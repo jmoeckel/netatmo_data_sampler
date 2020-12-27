@@ -5,8 +5,8 @@ Sample data from your netatmo stations (including its modules) and store them as
 Small script to sample daily data from your netatmo weather stations. 
 All data are stored to .csv files, seperated by station/modules and type of measurement. 
 
-This script bases on the lnetatmo module and your own Netatmo-Applet (https://dev.netatmo.com).
-See https://github.com/philippelt/netatmo-api-python regarding the lnetatmodocumentation.
+This script bases on the lnetatmo module and your own Netatmo-Applet (https://dev.netatmo.com).  
+See https://github.com/philippelt/netatmo-api-python regarding the lnetatmo documentation.
 
 ## Uage
 1. Store your credential in a file auth.json (clientID, ClientSecret, username, password, scope)
